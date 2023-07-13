@@ -2,7 +2,7 @@
 title: Concepts
 description: This page explains the most basic AXII concepts.
 published: true
-date: 2023-07-13T13:36:04.641Z
+date: 2023-07-13T16:40:40.280Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-05T14:45:51.836Z
@@ -15,9 +15,11 @@ To better understand the AXII platform, it is important to familiarize yourself 
 
 A Data Source is a static, immutable piece of data, such as a sequence of bytes that can be interpreted as a (structured) text file, images, videos, etc. Users can easily bring their existing data to AXII, as the platform supports multiple ways of doing so. Internally, a Data Source is linked to an inventory object, which is stored in one or more Stores.
 
-**Example:** A CSV file with the Iris dataset.
+> **Example:** A CSV file with the Iris dataset.
+{.is-success}
 
-**Not a Data Source:** A database, because it is not immutable. However, data can be fetched from a database to create a Data Source.
+> **Not a Data Source:** A database, because it is not immutable. However, data can be fetched from a database to create a Data Source.
+{.is-warning}
 
 ## Task
 
