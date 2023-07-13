@@ -2,7 +2,7 @@
 title: Concepts
 description: This page explains the most basic AXII concepts.
 published: true
-date: 2023-07-13T16:40:40.280Z
+date: 2023-07-13T16:40:54.181Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-05T14:45:51.836Z
@@ -25,7 +25,8 @@ A Data Source is a static, immutable piece of data, such as a sequence of bytes 
 
 A Task is anything that is executed on the platform. Conceptually, it is closest to a container. Users can easily create new Tasks using their favorite frameworks and existing source code without any modifications. Tasks can consume inputs, generate outputs, and accept parameters. They may be plain containers or more complex structures like Python scripts or Spark jobs.
 
-**Example:** A Python script that trains a machine learning model.
+> **Example:** A Python script that trains a machine learning model.
+{.is-success}
 
 ## Workflow
 
