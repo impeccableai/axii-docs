@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2023-07-13T13:42:07.604Z
+date: 2023-07-13T13:43:03.493Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T13:42:07.604Z
@@ -38,7 +38,7 @@ The macro language is statically typed with inferred types. Macros in Workflow's
 - `random_intn: (max: int) -> int`
   - Example: `random_intn(10) = 5`
 - `random_uuid: (strip_dashes: bool? = False) -> str`
-  - Example: `random_uuid() = \"41d49816-523c-2137-afee-59c7c2d9825a\"`
+  - Example: `random_uuid() = "41d49816-523c-2137-afee-59c7c2d9825a"`
 - `now: () -> time`
   - Example: `now() `= time object representing the current time
 - `date: () -> time`
@@ -46,8 +46,8 @@ The macro language is statically typed with inferred types. Macros in Workflow's
 - `time_add: (time, duration) -> time`
   - Example: `time_add(now(), -DAY)` = time object representing the exact same time yesterday
 - `strptime: (string, string) -> time`
-  - Example: `strftime(date(2005, 04, 02, 21, 37, 00), \"%Y-%m-%d %H:%M:%S\")` = time object representing the date 2005-04-02 21:37:00
+  - Example: `strftime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d %H:%M:%S")` = time object representing the date 2005-04-02 21:37:00
 - `strftime: (time, string) -> string`
-  - Example: `strftime(date(2005, 04, 02, 21, 37, 00), \"%Y-%m-%d\") = \"2004-04-02\"`
+  - Example: `strftime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d") = "2004-04-02"`
 
 By understanding how to use macros in AXII, users can create dynamic and flexible workflows that adapt to changing conditions and requirements. This powerful feature enables AI experts to create more sophisticated and adaptable AI solutions while leveraging AXII's robust infrastructure and resource management capabilities.
