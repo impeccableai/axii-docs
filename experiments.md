@@ -2,7 +2,7 @@
 title: Experiments
 description: 
 published: true
-date: 2023-07-13T12:36:14.220Z
+date: 2023-07-13T15:32:22.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T12:12:59.089Z
@@ -88,4 +88,4 @@ Depending on the configuration, AXII can scale compute resources to match the cu
 
 ### Recurring Experiments
 
-AXII supports scheduling Experiments, which is useful for executing Experiments based on time intervals. This feature, together with Macros, allows users to create dynamic Workflows to, for example, fetch and process daily data for later use in model training Workflows. This makes it easy for users to keep their models up-to-date with the latest data and trends.
+AXII supports scheduling Experiments, which is useful for executing Experiments based on time intervals. This feature, together with Macros, allows users to create dynamic Workflows to, for example, fetch and process daily data for later use in model training Workflows. This makes it easy for users to keep their models up-to-date with the latest data and trends. For more information on Recurring Experiments, refer to the Recurring Experiments documentation page[recurring-experiments](/recurring-experiments).
