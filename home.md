@@ -2,7 +2,7 @@
 title: AXII
 description: 
 published: true
-date: 2023-07-13T16:38:43.524Z
+date: 2023-07-13T16:41:51.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-29T12:37:35.857Z
@@ -28,7 +28,7 @@ AXII enables accelerated experimentation by maintaining consistent and reproduci
 
 ## Try Our Free Open Demo
 > Before diving into the full version of AXII, we invite you to try our [free open demo](https://demo.axii.ai).
-{.is-warning}
+{.is-info}
 
 The demo allows you to experience AXII's capabilities, although it has some limitations and doesn't offer all the powerful features available in the full version. This hands-on experience will give you a taste of what AXII can do for your team and projects.
 
