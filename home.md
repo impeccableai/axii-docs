@@ -2,7 +2,7 @@
 title: AXII
 description: 
 published: true
-date: 2023-07-13T16:31:50.272Z
+date: 2023-07-13T16:38:43.524Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-29T12:37:35.857Z
@@ -27,8 +27,10 @@ With AXII, you can offload the complexities of infrastructure management to the 
 AXII enables accelerated experimentation by maintaining consistent and reproducible results across experiments. This helps you make informed decisions and track progress, ultimately leading to faster innovation and better overall results.
 
 ## Try Our Free Open Demo
+> Before diving into the full version of AXII, we invite you to try our [free open demo](https://demo.axii.ai).
+{.is-warning}
 
-Before diving into the full version of AXII, we invite you to try our [free open demo](https://demo.axii.ai). The demo allows you to experience AXII's capabilities, although it has some limitations and doesn't offer all the powerful features available in the full version. This hands-on experience will give you a taste of what AXII can do for your team and projects.
+The demo allows you to experience AXII's capabilities, although it has some limitations and doesn't offer all the powerful features available in the full version. This hands-on experience will give you a taste of what AXII can do for your team and projects.
 
 ## Getting Started
 
