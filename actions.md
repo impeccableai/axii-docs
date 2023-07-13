@@ -2,13 +2,13 @@
 title: Actions
 description: 
 published: true
-date: 2023-07-13T15:36:28.236Z
+date: 2023-07-13T15:36:37.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T15:36:28.236Z
 ---
 
-# Actions: Enhancing Interactions with AXII
+# Actions
 
 In AXII, Action Nodes play a crucial role in providing users with a seamless and efficient way to interact with the platform directly. These specialized nodes enable users to perform specific tasks within their workflows, allowing for greater flexibility and control over the AI development process.
 
