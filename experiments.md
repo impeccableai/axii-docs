@@ -2,7 +2,7 @@
 title: Experiments
 description: 
 published: true
-date: 2023-07-13T12:29:23.297Z
+date: 2023-07-13T12:36:14.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T12:12:59.089Z
@@ -11,7 +11,7 @@ dateCreated: 2023-07-13T12:12:59.089Z
 # Experiments
 ## Introduction
 
-An Experiment in AXII is an execution of a workflow. It is immutable, meaning that once it has been submitted, it cannot be changed. This is important for maintaining the integrity and consistency of the results produced by the Experiment.
+An Experiment in AXII is an execution of a Workflow.
 
 ## Deep Dive
 
