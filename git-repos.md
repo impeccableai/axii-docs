@@ -2,13 +2,13 @@
 title: Git Repos
 description: 
 published: true
-date: 2023-07-13T16:02:10.521Z
+date: 2023-07-13T16:02:35.290Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T16:02:10.521Z
 ---
 
-# Git Repos Integration
+# Git Repos
 AXII provides the ability to integrate with existing public and private Git repositories, streamlining the process of using source code in the platform. This integration makes it easy for users to leverage their existing repositories directly within AXII.
 
 ## One-Directional Integration
