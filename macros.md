@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2023-07-18T13:07:40.392Z
+date: 2023-07-18T13:07:59.868Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T13:42:07.604Z
@@ -48,6 +48,6 @@ The macro language is statically typed with inferred types. Macros in Workflow's
 - `strptime: (string, string) -> time`
   - Example: `strptime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d %H:%M:%S")` = time object representing the date 2005-04-02 21:37:00
 - `strftime: (time, string) -> string`
-  - Example: `strftime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d") = "2004-04-02"`
+  - Example: `strftime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d") = "2005-04-02"`
 
 By understanding how to use macros in AXII, users can create dynamic and flexible workflows that adapt to changing conditions and requirements. This powerful feature enables AI experts to create more sophisticated and adaptable AI solutions while leveraging AXII's robust infrastructure and resource management capabilities.
