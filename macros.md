@@ -2,7 +2,7 @@
 title: Macros
 description: 
 published: true
-date: 2023-07-13T13:43:03.493Z
+date: 2023-07-18T13:07:40.392Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T13:42:07.604Z
@@ -46,7 +46,7 @@ The macro language is statically typed with inferred types. Macros in Workflow's
 - `time_add: (time, duration) -> time`
   - Example: `time_add(now(), -DAY)` = time object representing the exact same time yesterday
 - `strptime: (string, string) -> time`
-  - Example: `strftime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d %H:%M:%S")` = time object representing the date 2005-04-02 21:37:00
+  - Example: `strptime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d %H:%M:%S")` = time object representing the date 2005-04-02 21:37:00
 - `strftime: (time, string) -> string`
   - Example: `strftime(date(2005, 04, 02, 21, 37, 00), "%Y-%m-%d") = "2004-04-02"`
 
