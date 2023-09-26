@@ -2,7 +2,7 @@
 title: Workflows and Drafts
 description: 
 published: true
-date: 2023-07-13T13:47:58.935Z
+date: 2023-09-26T13:24:35.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-13T13:47:58.935Z
@@ -20,6 +20,9 @@ A Workflow is a set of Nodes and Edges that describe a directed acyclic graph (D
 ### Draft
 
 A Draft is a Workflow in a \"work-in-progress\" stage. Users most often interact with the application by creating and editing drafts.
+
+Watch demo video (https://youtu.be/T_lUkybwma8):
+[![Composing a Draft in AXII](http://img.youtube.com/vi/T_lUkybwma8/0.jpg)](http://www.youtube.com/watch?v=T_lUkybwma8 "Composing a Draft in AXII")
 
 ## Deep Dive
 
